@@ -24,7 +24,7 @@ class ViewController: UIViewController {
     func superAwesomeFunction() {
         
         print("This function is pure awesome in a can")
-        print(")
+        print("aka feature q")
         
     }
     
