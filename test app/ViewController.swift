@@ -21,6 +21,13 @@ class ViewController: UIViewController {
         
     }
 
+    func superAwesomeFunction() {
+        
+        print("This function is pure awesome in a can")
+        print(")
+        
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
