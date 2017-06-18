@@ -16,9 +16,20 @@ class ViewController: UIViewController {
         
         print("Hello")
         print("feature-x")
+        print("master branch update")
+        print("feature-y update")
+        print("bug fixed")
+        print("master branch update 2")
         
     }
 
+    func superAwesomeFunction() {
+        
+        print("This function is pure awesome in a can")
+        print("aka feature q")
+        
+    }
+    
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
