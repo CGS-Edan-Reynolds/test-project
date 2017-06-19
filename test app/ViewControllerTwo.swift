@@ -14,6 +14,7 @@ class ViewControllerTwo: UIViewController {
         super.viewDidLoad()
         
         print("meme")
+        print("updated meme")
 
         // Do any additional setup after loading the view.
     }
